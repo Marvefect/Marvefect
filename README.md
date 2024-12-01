@@ -1,5 +1,16 @@
-o/ Marvefect here, thanks for visiting my profile!
-You can call me Max btw, I don't mind that at all.
-Here I do silly minecraft datapack coding :p
-If you want to contact me DM me on Discord: @marvefect
-Have a nice one! :3
+```mcfunction
+data get storage marvefect:about_me
+```
+<img align="right" src="https://i.postimg.cc/g26X0YMN/avatar.png" alt="" width="160" />
+
+```mcfunction
+Storge marvefect:about_me has followin subject-matter:
+{
+Age: "16",
+City: "Moscow",
+OS: "Arch Linux",
+IDE: "VSCodium",
+Lang: ["RU", "EN"],
+DC: "@marvefect"
+}
+```
