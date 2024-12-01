@@ -11,6 +11,7 @@ City: "Moscow",
 OS: "Arch Linux",
 IDE: "VSCodium",
 Lang: ["RU", "EN"],
+Games: ["Minecraft", "Etterna"],
 DC: "@marvefect"
 }
 ```
