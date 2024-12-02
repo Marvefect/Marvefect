@@ -1,7 +1,7 @@
 ```mcfunction
 data get storage marvefect:about_me
 ```
-<img align="right" src="https://github.com/Marvefect/Marvefect/blob/main/avatar.png?raw=true" alt="" width="230" />
+<img align="right" src="https://github.com/Marvefect/Marvefect/blob/main/avatar.png?raw=true" alt="" width="200" />
 
 ```mcfunction
 Storge marvefect:about_me has followin subject-matter:
