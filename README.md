@@ -9,7 +9,7 @@ Storge marvefect:about_me has followin subject-matter:
 Name: "Max",
 Age: "16",
 OS: "Arch Linux",
-IDE: "Neovim with NVChad",
+IDE: "Neovim with Lazy",
 Lang: ["RU", "EN"],
 Games: ["Minecraft", "Etterna"],
 DC: "@marvefect"
