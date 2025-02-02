@@ -11,7 +11,6 @@ Age: "16",
 OS: "Arch Linux-zen",
 IDE: "Neovim with NVChad | Lazy",
 Lang: ["RU", "EN"],
-Games: ["Minecraft", "Etterna"],
 DC: "@marvefect"
 }
 ```
