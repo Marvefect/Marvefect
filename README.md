@@ -7,7 +7,7 @@
 Storge marvefect:about_me has followin subject-matter:
 {
 Name: "Max",
-Age: "16",
+Age: "17",
 OS: "Arch Linux-zen",
 IDE: ["Nvim", "ItelliJ IDEA"],
 Lang: ["RU", "EN"],
