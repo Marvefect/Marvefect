@@ -11,6 +11,7 @@ Age: "17",
 OS: "Arch Linux-zen",
 IDE: ["Nvim", "ItelliJ IDEA"],
 Lang: ["RU", "EN"],
+INT: ["VSRG, "MC"],
 DC: "@marvefect"
 }
 ```
