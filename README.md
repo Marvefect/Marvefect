@@ -9,7 +9,7 @@ Storge marvefect:about_me has followin subject-matter:
 Name: "Max",
 Age: "17",
 OS: "Arch Linux-zen",
-IDE: ["Nvim"],
+IDE: "Nvim",
 Lang: ["RU", "EN"],
 INT: ["VSRG", "MC"],
 DC: "@marvefect"
